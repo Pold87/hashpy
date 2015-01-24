@@ -1,7 +1,0 @@
-idea: extract all hashtags from the fold files
-most frequent
-aggressive hashtags contain: asshole, bitch, etc.
-search in dutch tweets or use twiqs.nl
-
-
-# hashtags = ["bitch", "fuckedup", "fml", "grr", "nietleuk", "fuck"]
